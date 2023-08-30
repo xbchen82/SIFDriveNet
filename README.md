@@ -3,7 +3,7 @@
 
 
 
-![](network2.PNG)
+![](network0731.PNG)
 
 PyTorch implementation of the paper "SIFDriveNet: Speed and Image Fusion Driving Behavior Classification Network"
 
