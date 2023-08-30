@@ -42,7 +42,7 @@ pip install -r requirements.txt  # install
 #### 2.train
 
 ```
-python mainNN_total.py --mode train
+python mainNN_total.py --mode main
 ```
 
 #### 3.test
